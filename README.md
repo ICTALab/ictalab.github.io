@@ -1,2 +1,2 @@
-# ITDALab.github.io
-Website of NCHU Industrial and Transportation Data Analysis Laboratory
+# icdalab.github.io
+Website of NCHU Industry, Commerce and Traffic Data Analysis Lab
