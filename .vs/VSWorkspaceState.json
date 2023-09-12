@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.idea",
+    "\\.idea\\inspectionProfiles",
+    "\\assets",
+    "\\assets\\js"
   ],
-  "SelectedNode": "\\C:\\Users\\jih-s\\OneDrive\\文件\\Lab\\Web",
   "PreviewInSolutionExplorer": false
 }
