@@ -1971,3 +1971,21 @@ th {
 .table > tbody > tr > td {
     vertical-align: middle;
 }
+
+.labstory table {
+    width: 100%; /* 表格寬度設為100% */
+    border-collapse: separate; /* 使邊框分離 */
+    border-spacing: 30px 10px; /* 設定行與行之間的間距為10px，列與列之間的間距為0 */
+    table-layout: fixed; /* 固定表格佈局 */
+}
+
+.labstory th, .labstory td {
+    text-align: center; /* 文字置中 */
+    border: none; /* 移除單元格的所有邊框 */
+    color: black; /* 文字顏色為黑色 */
+    padding: 5px;
+}
+
+.labstory th {
+    border-bottom: 3px solid black; /* 在表頭下方添加一條黑色的邊框 */
+}
